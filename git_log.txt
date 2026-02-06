@@ -1,0 +1,52 @@
+commit 5148417df4358923a4f845d8f241c501e29a7a24
+Merge: ed5f2c1 996f0bf
+Author: drew990 <andrewbanagas40@gmail.com>
+Date:   Thu Feb 5 22:41:22 2026 -0800
+
+    Fixed merge error
+
+commit 996f0bf5a2f17ac4744a3f1980195ef45c9d0910
+Author: drew990 <andrewbanagas40@gmail.com>
+Date:   Thu Feb 5 22:39:22 2026 -0800
+
+    Added new div about my favorite movie
+
+commit ed5f2c1224fc87d66a19a046f5671b4d1da2b935
+Author: drew990 <andrewbanagas40@gmail.com>
+Date:   Thu Feb 5 22:38:13 2026 -0800
+
+    Added 2 new divs
+
+commit 0f1dc9ecc8a3d99130c9de01524aa1565213694d
+Merge: 4d53b5b caeb4d4
+Author: drew990 <andrewbanagas40@gmail.com>
+Date:   Thu Feb 5 22:36:20 2026 -0800
+
+    Added READNE.md
+
+commit 4d53b5bea9c320c993057094eb9a5c2db8bb4f9e
+Author: drew990 <andrewbanagas40@gmail.com>
+Date:   Thu Feb 5 22:34:21 2026 -0800
+
+    added README.md file
+
+commit caeb4d42ee11ef364483982aa832dbe62e065e88
+Merge: 1d2bfc0 0401dee
+Author: Andrew Banagas <andrewbanagas40@gmail.com>
+Date:   Thu Feb 5 22:28:31 2026 -0800
+
+    Merge pull request #1 from drew990/info-fill
+    
+    Filled in two blanks on index.html
+
+commit 0401dee4b8ebb69b854637a4a09665df6caa80be
+Author: drew990 <andrewbanagas40@gmail.com>
+Date:   Thu Feb 5 22:21:06 2026 -0800
+
+    Filled in two blanks on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
